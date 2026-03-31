@@ -1,4 +1,10 @@
-## Hi there 👋
+Hi, I'm Maxen!
+A fullstack engineer in training 🫡
+
+Recent Projects:
+> https://6maxen.github.io/dialogue_test-v1/
+> https://6maxen.github.io/pomodoro-v1/
+
 
 <!--
 **6maxen/6maxen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
