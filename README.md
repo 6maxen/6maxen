@@ -2,8 +2,8 @@ Hi, I'm Maxen!
 A fullstack engineer in training 🫡
 
 Recent Projects:
-> https://6maxen.github.io/dialogue_test-v1/
-> https://6maxen.github.io/pomodoro-v1/
+- https://6maxen.github.io/dialogue_test-v1/
+- https://6maxen.github.io/pomodoro-v1/
 
 
 <!--
