@@ -1,10 +1,9 @@
 Hi, I'm Maxen!  
-A fullstack engineer in training 🫡  
-6maxen@gmail.com
+A fullstack engineer in training 🫡
 
-Recent Projects:
-- [dialogue chatbot](https://6maxen.github.io/dialogue_test-v1/)
-- [pomodoro timer](https://6maxen.github.io/pomodoro-v1/)
+Recent Projects:  
+[dialogue chatbot](https://6maxen.github.io/dialogue_test-v1/)  
+[pomodoro timer](https://6maxen.github.io/pomodoro-v1/)
 
 
 <!--
