@@ -1,5 +1,5 @@
 Hi, I'm Maxen!  
-A fullstack engineer in training 🫡  
+A fullstack developer in training 🫡  
 
 Recent Projects:  
 [dialogue v1](https://6maxen.github.io/dialogue_test-v1/)  
