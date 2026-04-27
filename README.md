@@ -2,7 +2,7 @@ Hi, I'm Maxen!
 A fullstack developer in training 🫡  
 
 Recent Projects:  
-[clicker v1](https://github.com/6maxen/clicker-v1)
+[clicker v1](https://github.com/6maxen/clicker-v1)  
 [dialogue v1](https://github.com/6maxen/dialogue_test-v1/)  
 [pomodoro v1](https://github.com/6maxen/pomodoro-v1/)
   
