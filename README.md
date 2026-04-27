@@ -2,8 +2,9 @@ Hi, I'm Maxen!
 A fullstack developer in training 🫡  
 
 Recent Projects:  
-[dialogue v1](https://6maxen.github.io/dialogue_test-v1/)  
-[pomodoro v1](https://6maxen.github.io/pomodoro-v1/)
+[clicker v1](https://github.com/6maxen/clicker-v1)
+[dialogue v1](https://github.com/6maxen/dialogue_test-v1/)  
+[pomodoro v1](https://github.com/6maxen/pomodoro-v1/)
   
 <!--
 shields.io badges:
