@@ -4,9 +4,6 @@ A fullstack developer in training 🫡
 Recent Projects:  
 [aim trainer](https://github.com/6maxen/aim)  
 [spider-ball](https://github.com/6maxen/spider-ball)  
-[clicker v1](https://github.com/6maxen/clicker-v1)  
-[dialogue v1](https://github.com/6maxen/dialogue_test-v1/)  
-[pomodoro v1](https://github.com/6maxen/pomodoro-v1/)
   
 <!--
 shields.io badges:
