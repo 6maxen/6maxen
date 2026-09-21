@@ -2,7 +2,8 @@ Hi, I'm Maxen!
 A fullstack developer in training 🫡  
 
 Recent Projects:  
-[jump game!](https://github.com/6maxen/jump.game-v1)  
+[aim trainer](https://github.com/6maxen/aim)  
+[spider-ball](https://github.com/6maxen/spider-ball)  
 [clicker v1](https://github.com/6maxen/clicker-v1)  
 [dialogue v1](https://github.com/6maxen/dialogue_test-v1/)  
 [pomodoro v1](https://github.com/6maxen/pomodoro-v1/)
