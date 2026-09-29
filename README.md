@@ -2,7 +2,6 @@ Hi, I'm Maxen!
 A fullstack developer in training 🫡  
 
 Recent Projects:  
-[aim trainer](https://github.com/6maxen/aim)  
 [spider-ball](https://github.com/6maxen/spider-ball)  
   
 <!--
