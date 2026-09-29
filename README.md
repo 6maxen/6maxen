@@ -1,10 +1,9 @@
 Hi, I'm Maxen!  
 A fullstack developer in training 🫡  
 
-6maxen@gmail.com
-dc: @m.xen
 
 Recent Projects:  
+[aim-trainer](https://maxen.fun)
 [spider-ball](https://github.com/6maxen/spider-ball)  
   
 <!--
