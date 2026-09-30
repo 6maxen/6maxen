@@ -1,6 +1,5 @@
 Hi, I'm Maxen!  
 A fullstack developer in training 🫡  
-Contact: 6maxen@gmail.com  
 
 
 Recent Projects:  
