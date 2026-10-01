@@ -3,8 +3,8 @@ A fullstack developer in training 🫡
 
 
 Recent Projects:  
-[aim-trainer](https://maxen.fun)  
-[spider-ball](https://github.com/6maxen/spider-ball)  
+[aim-trainer](https://maxen.fun/aim)  
+[sling-ball](https://maxen.fun/sling)
   
 <!--
 shields.io badges:
